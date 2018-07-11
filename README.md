@@ -3,7 +3,9 @@
 Links as found on the [OSE download page](https://www.zimbra.com/downloads/zimbra-collaboration-open-source/) 
 and [NE](https://www.zimbra.com/downloads/zimbra-collaboration/).
 
-## 8.8.9
+## 8.8.9 
+
+[Release notes](https://wiki.zimbra.com/wiki/Zimbra_Releases/8.8.9)
 
 * RHEL/CentOS/Oracle 6: [OSE](https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_2055.RHEL6_64.20180703080917.tgz) 
     | [NE](https://files.zimbra.com/downloads/8.8.9_GA/zcs-NETWORK-8.8.9_GA_2055.RHEL6_64.20180703080917.tgz)
