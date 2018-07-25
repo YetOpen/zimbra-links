@@ -1,6 +1,6 @@
 # Zimbra download links
 
-Links as found on the [OSE download page](https://www.zimbra.com/downloads/zimbra-collaboration-open-source/) 
+Links as found on the [OSE download page](https://www.zimbra.com/try/zimbra-collaboration-open-source/thank-you/) 
 and [NE](https://www.zimbra.com/downloads/zimbra-collaboration/).
 
 ## 8.8.9 
