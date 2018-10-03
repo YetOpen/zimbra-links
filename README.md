@@ -28,3 +28,9 @@ and [NE](https://www.zimbra.com/downloads/zimbra-collaboration/).
     | [NE](https://files.zimbra.com/downloads/8.8.9_GA/zcs-NETWORK-8.8.9_GA_2055.UBUNTU14_64.20180703080917.tgz)
 * Ubuntu16: [OSE](https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_2055.UBUNTU16_64.20180703080917.tgz) 
     | [NE](https://files.zimbra.com/downloads/8.8.9_GA/zcs-NETWORK-8.8.9_GA_2055.UBUNTU16_64.20180703080917.tgz)
+
+# Alternative mirror
+
+[Brando Beaumont](https://lists.zetalliance.org/pipermail/users_lists.zetalliance.org/2018-April/001133.html) runs a *private* mirror 
+of Zimbra install packages, you can find them [here](http://zimbramirror.itaserv.net/)
+
